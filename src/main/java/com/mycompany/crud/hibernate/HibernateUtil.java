@@ -5,7 +5,7 @@
 package com.mycompany.crud.hibernate;
 
 
-
+//agregar la funcionalidad de hibernate util
 /**
  *
  */
